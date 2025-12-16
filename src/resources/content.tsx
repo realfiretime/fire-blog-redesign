@@ -115,7 +115,7 @@ const about: About = {
         ),
     },
     work: {
-        display: true, // set to false to hide this section, true to show
+        display: false, // set to false to hide this section, true to show
         title: "Work Experience",
         experiences: [
             {
@@ -176,7 +176,7 @@ const about: About = {
     },
     technical: {
         display: true, // set to false to hide this section, true to show
-        title: "Things I Made (and am making)",
+        title: "Things I Made",
         skills: [
             {
                 title: "Fire Clicker",

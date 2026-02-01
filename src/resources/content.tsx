@@ -65,7 +65,7 @@ const home: Home = {
     image: "/images/og/home.jpg",
     label: "Home",
     title: `${person.name}'s Site`,
-    description: `Making stupid things on the internet, while having fun`,
+    description: `Hey there, I make stuff on the internet!`,
     headline: <>Hey there, I make things on the internet!</>,
     featured: {
         display: true,
@@ -108,9 +108,9 @@ const about: About = {
         title: "Introduction",
         description: (
             <>
-                Hey im firetime. Ive been making things on the internet for years.
-                From games to websites to apps, ive made many things and am working
-                on many more.
+                Hey there, im firetime, i make things on the internet.
+                from apps to websites, and some games, i dont know whatelse to put here so,
+                go outside and touch grass maby?
             </>
         ),
     },
@@ -175,7 +175,7 @@ const about: About = {
         ],
     },
     technical: {
-        display: true, // set to false to hide this section, true to show
+        display: false, // set to false to hide this section, true to show
         title: "Things I Made",
         skills: [
             {

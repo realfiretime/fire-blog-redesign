@@ -194,7 +194,7 @@ const schema: SchemaConfig = {
 };
 
 // social links
-const sameAs: SameAsConfig = {
+const sameAs: any = {
   youtube: "https://www.youtube.com/@firetime.official",
   twitch: "https://www.twitch.tv/firetimeofficial",
 };

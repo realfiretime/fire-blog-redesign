@@ -264,7 +264,6 @@ const work: Work = {
 };
 
 const gallery: Gallery = {
-<<<<<<< HEAD
   path: "/gallery",
   label: "Gallery",
   title: `Random images gallery – ${person.name}`,

@@ -21,7 +21,7 @@ export default function NotFound() {
       </Text>
       <>
         <Fade
-          zIndex="1"
+          zIndex={1}
           to="right"
           fillHeight
           width="64"

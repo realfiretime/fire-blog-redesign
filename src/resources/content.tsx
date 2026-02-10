@@ -267,7 +267,7 @@ const gallery: Gallery = {
   path: "/gallery",
   label: "Gallery",
   title: `Random images gallery – ${person.name}`,
-  description: `A photo/random images collection by ${person.name}`,
+  description: `A random image collection by ${person.name}`,
   //-t means transparent
   images: [
     {

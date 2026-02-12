@@ -19,7 +19,6 @@ export default function NotFound() {
       <Text onBackground="neutral-weak">
         The page you are looking for does not exist. or does it?
       </Text>
-      </>
     </Column>
   );
 }

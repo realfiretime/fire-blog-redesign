@@ -106,9 +106,9 @@ const about: About = {
   avatar: {
     display: true,
   },
-  steam: {
+  calendar: {
     display: false,
-    link: "https://steamcommunity.com/id/firetime_",
+    link: "https://cal.com",
   },
   intro: {
     display: true,
